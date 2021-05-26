@@ -1,0 +1,22 @@
+body{
+  font-family: 'Oswald', sans-serif;
+}
+.heading{
+  background: #05c5ff; 
+  font-weight:bold; 
+  color:white;
+  font-size:70px;
+  text-align:center;
+}
+#contact{
+  text-align:center;
+}
+#contact-heading{
+  margin-top:10px;
+}
+#footer{
+  background: #05c5ff; 
+  font-weight:bold; 
+  color:white;
+  text-align:center;
+}
